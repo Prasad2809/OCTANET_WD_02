@@ -18,9 +18,10 @@ Please explore the repository, provide feedback, or connect with me for further 
 # Contact Information
 For any inquiries or collaborations, feel free to reach out:
 
-Email: prasadshinde0428@gmail.com
-LinkedIn: https://www.linkedin.com/in/prasad-shinde-b0167328b/
-Reference
+* Email: prasadshinde0428@gmail.com
+* LinkedIn: https://www.linkedin.com/in/prasad-shinde-b0167328b/
+
+# Reference
 You may visit my LinkedIn post to refer.
 
-Link- https://www.linkedin.com/posts/prasad-shinde-b0167328b_webdevelopment-html-css-activity-7217394097739726848-etNg?utm_source=share&utm_medium=member_desktop
+* Link- https://www.linkedin.com/posts/prasad-shinde-b0167328b_webdevelopment-html-css-activity-7217394097739726848-etNg?utm_source=share&utm_medium=member_desktop
